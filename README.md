@@ -1,1 +1,1 @@
-## This reop contains all my notes
+## This repo contains all my notes
